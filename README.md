@@ -1,2 +1,5 @@
 # Day-26-GitHub-CLI-Manage-GitHub-from-Your-Terminal
-GitHub CLI: Manage GitHub from Your Terminal
+GitHub CLI allows you to manage GitHub projects from your terminal.
+ You can create repos, push code, open pull requests, and track issues without using the website.
+
+ <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a048a9e9-b492-4470-afd0-788a7de55a94" /> <img width="1008" height="340" alt="Image" src="https://github.com/user-attachments/assets/8face2a1-6f4d-4ff3-acf1-598dfdbdc83a" /> <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/df599f96-42ea-4c10-9b78-094a05a2d4c7" /> <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/28006776-74a0-4ef8-ae46-71fdbcd412f2" /> <img width="968" height="317" alt="Image" src="https://github.com/user-attachments/assets/367d0b6b-5063-4fe2-ab0c-8a02983e6614" /> <img width="892" height="414" alt="Image" src="https://github.com/user-attachments/assets/1ab26570-f4c5-434d-847d-eb86a1c6d129" />
